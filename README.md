@@ -12,7 +12,7 @@ GeckoJS is implemented in [ES6](https://en.wikipedia.org/wiki/ECMAScript#ES6) an
 
 With Node.js installed, type the following commands in a prompt to setup GeckoJS.
 
-1. ```$ https://github.com/okkindel/GeckoJS.git```
+1. ```$ git clone https://github.com/okkindel/GeckoJS.git```
 2. ```$ cd geckoJS```
 3. ```$ npm install```
 
