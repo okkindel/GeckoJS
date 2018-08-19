@@ -1,10 +1,10 @@
-# GeckoJS
+# GeckoTS
 
 <p align="center">
   <img src="./assets/mage.jpg"/>
 </p>
 
-### An interpreted, object-oriented and statically typed programming language inspired by TypeScript, Java and Scala written in JavaScript.
+### An interpreted, object-oriented and statically typed programming language inspired by TypeScript, Java and Scala written in TypeScript.
 
 <p align="center">
   <img src="./assets/book.jpg"/>
