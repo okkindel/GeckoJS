@@ -1,0 +1,29 @@
+{
+    "name": "geckoJs",
+    "version": "0.0.1",
+    "description": "An interpreted object-oriented programming language",
+    "main": "build/main/gecko.js",
+    "dependencies": {
+        "babel-preset-es2016": "^6.1.18",
+        "readline-sync": "^1.2.22"
+    },
+    "devDependencies": {
+        "babel-cli": "^6.2.0",
+        "mocha": "^2.3.4"
+    },
+    "scripts": {
+        "gecko": "node build/main/gecko.js",
+        "build": "babel src --source-maps --out-dir build",
+        "test": "mocha --recursive build/test/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/okkindel/GeckoJS"
+    },
+    "keywords": [
+        "gecko",
+        "interpreter"
+    ],
+    "author": "Maciej Hajduk",
+    "license": "MIT"
+}
