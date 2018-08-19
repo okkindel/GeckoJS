@@ -28,6 +28,8 @@ Run ```npm run gecko``` to start an shell for writing GeckoJS programs.
   <img src="./assets/book.jpg"/>
 </p>
 
+## Language Documentation:
+
 
 ### Data types:
 
