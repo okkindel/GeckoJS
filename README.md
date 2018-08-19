@@ -4,16 +4,12 @@
   <img src="./assets/mage.jpg"/>
 </p>
 
-## An interpreted, object-oriented and statically typed programming language inspired by TypeScript, Java and Scala written in JavaScript.
+### An interpreted, object-oriented and statically typed programming language inspired by TypeScript, Java and Scala written in JavaScript.
 
 <p align="center">
   <img src="./assets/book.jpg"/>
 </p>
 
-
-```
-Console.println("Hello world!")
-```
 
 ### Data types:
 
@@ -34,17 +30,17 @@ Conditions are expressed using an if-else expression.
 
 ```
 if (<condition>) {
-    <do something>
+    (do something)
 } else {
-    <do something>
+    (do something)
 }
 ```
 
 ### Functions:
-Functions are defined using the funcion keyword. Parameters are separated by `,` and enclosed in parenthesis `(a: Int, b: Int)`. A parameter is followed whith `:` by its type function languages way.
+Functions are defined using the `funcion` keyword. Parameters are separated by `,` and enclosed in parenthesis `(a: Int, b: Int)`. A parameter is followed whith `:` by its type function languages way.
 
 ```
-func sum(a: Int, b: Int): Int = {
+funcion sum(a: Int, b: Int): Int = {
     a + b
 }
 ```
