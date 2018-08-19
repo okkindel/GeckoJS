@@ -1,4 +1,4 @@
-# GeckoTS
+# GeckoJS
 
 <p align="center">
   <img src="./assets/mage.jpg"/>
