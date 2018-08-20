@@ -13,7 +13,7 @@ GeckoJS is implemented in [ES6](https://en.wikipedia.org/wiki/ECMAScript#ES6) an
 With Node.js installed, type the following commands in a prompt to setup GeckoJS.
 
 1. ```$ git clone https://github.com/okkindel/GeckoJS.git```
-2. ```$ cd geckoJS```
+2. ```$ cd GeckoJS```
 3. ```$ npm install```
 
 ### How to build
@@ -49,7 +49,7 @@ Anything from the `//` to the end of line will be ignored by the interpreter.
 Conditions are expressed using an if-else expression.
 
 ```
-if (<condition>) {
+if (condition) {
     (do something)
 } else {
     (do something)
